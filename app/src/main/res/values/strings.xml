@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Type To Wake</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="details_alarm_name">Alarm Name</string>
+	<string name="details_repeat_weekly">Repeat Weekly</string>
+	<string name="details_sunday">SUN</string>
+	<string name="details_monday">MON</string>
+	<string name="details_tuesday">TUE</string>
+	<string name="details_wednesday">WED</string>
+	<string name="details_thursday">THU</string>
+	<string name="details_friday">FRI</string>
+	<string name="details_saturday">SAT</string>
+
+    <string name="details_save">Save</string>
+
+	<string name="details_alarm_tone">Alarm Tone</string>
+	<string name="details_alarm_tone_default">Select an alarm tone</string>
+	
+</resources>
